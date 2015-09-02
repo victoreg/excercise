@@ -1,0 +1,13 @@
+1) If you were to review the following code, what feedback would you give? Please
+be specific and indicate any errors that would occur as well as other best practices
+and code refactoring that should be done.
+2) Rewrite the code based on the feedback you provided in question 1. Please
+include unit tests on your code.
+
+1)
+- Create methods to decide if log to console, file or database
+- not read all the text file each time we write a new log event
+- better than ReadAllText is use AppendAllText for just add the new log event, but instead use both of them is use StreamWriter
+- use asynchronus methods, WriteAsync and WriteLineAsync for work with I/O files operations
+- use try/catch around operations that could got exceptions, like read/write file or open connection to database and get data from it
+- use "using" when will do operations with database or files to ensure manage a scope for the objects will be disposed.
