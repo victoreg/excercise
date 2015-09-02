@@ -1,0 +1,9 @@
+C:\Users\sistemas1\Documents\Visual Studio 2012\Projects\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\sistemas1\Documents\Visual Studio 2012\Projects\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\sistemas1\Documents\Visual Studio 2012\Projects\Exercise\bin\Debug\Exercise.exe
+C:\Users\sistemas1\Documents\Visual Studio 2012\Projects\Exercise\bin\Debug\Exercise.pdb
+C:\Users\sistemas1\Documents\Visual Studio 2012\Projects\Exercise\obj\Debug\Exercise.exe
+C:\Users\sistemas1\Documents\Visual Studio 2012\Projects\Exercise\obj\Debug\Exercise.pdb
+C:\Users\sistemas1\Documents\Visual Studio 2012\Projects\Excercise\bin\Debug\Exercise.exe.config
+C:\Users\sistemas1\Documents\Visual Studio 2012\Projects\Excercise\obj\Debug\Exercise.exe
+C:\Users\sistemas1\Documents\Visual Studio 2012\Projects\Excercise\obj\Debug\Exercise.pdb
